@@ -1,0 +1,36 @@
+body {
+    background-color: lightgrey;
+}
+
+.tabla_encabezado {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    font-family: Arial;
+}
+
+#h2_carreras {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.tabla_carreras {
+    text-align: center;
+    width: 100%;
+}
+
+.matricula-imagen img {
+    margin: 5%;
+    max-width: 90%;
+}
+
+#h2_estudiantes {
+    text-align: center;
+}
+
+.tabla_estudiantes {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    margin: 5%;
+}
